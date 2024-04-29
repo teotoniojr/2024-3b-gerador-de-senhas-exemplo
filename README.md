@@ -1,0 +1,1 @@
+# 2024-3b-gerador-de-senhas-exemplo
